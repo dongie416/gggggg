@@ -5,12 +5,12 @@ author: "Alexander Russell"
 img: img-1.png
 ---
 
-Progress was built and inspired by [Cody House's](https://codyhouse.co/) [Reading Progress Indicator](https://codyhouse.co/demo/reading-progress-indicator/index.html). The folks over at Cody House are pretty fantastic and are making some awesome things. They're also super responsive to comments, so head on over there and check out what they've been doing. 
+Progress was built and inspired by [Cody House's](https://codyhouse.co/) [Reading Progress Indicator](https://codyhouse.co/demo/reading-progress-indicator/index.html). The folks over at Cody House are pretty fantastic and are making some awesome things. They're also super responsive to comments, so head on over there and check out what they've been doing.
 
 Progress features a quick and simple environment that is set up so users can input all the necesarry info in the config file and start blogging. Further reiterations are in progress to turn this into a Wordpress theme or make it fully editable with Cloudcannon CMS. I cannot let you resell this unless you [contact me](mailto:alex@collectivelymade.com).
 
 If you'd like give credit somewhere on your blog or tweet a shout out to
-[@alexanderussell](https://twitter.com/alexanderussell), that would be pretty sweet. 
+[@alexanderussell](https://twitter.com/alexanderussell), that would be pretty sweet.
 
 If you feel like donating — [Give it a thought.](https://flattr.com/profile/alexanderussell)
 
@@ -104,4 +104,4 @@ There are two main content layouts: `post.html` (for posts) and `page.html` (for
 
 ## License
 
-This is free to use, fork, do whatever you want. Please *do not* sell this design though. You don't need to link me to it, but please contact me if you intend to market this theme. I am releasing premium versions of this design for select CMS's. 
+This is free to use, fork, do whatever you want. Please *do not* sell this design though. You don't need to link me to it, but please contact me if you intend to market this theme. I am releasing premium versions of this design for select CMS's.
