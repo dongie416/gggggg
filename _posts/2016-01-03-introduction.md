@@ -5,7 +5,7 @@ author: "Alexander Russell"
 img: img-1.png
 ---
 
-Fashion Finder was buily and inspired by [Mit App Inventor 2](http://appinventor.mit.edu/explore/) and was created by a Freshmen of KIS, in South Korea. In this website, you would experience how and why I created this app (actually very similar to the presentation), however, in this website you would be able to view the basic information about the app and some codes that i've included for the application.
+Fashion Finder was built and inspired by [Mit App Inventor 2](http://appinventor.mit.edu/explore/) and was created by a Freshmen of KIS, in South Korea. In this website, you would experience how and why I created this app (actually very similar to the presentation), however, in this website you would be able to view the basic information about the app and some codes that i've included for the application.
 
 Progress features a quick and simple environment that is set up so users can input all the necesarry info in the config file and start blogging. Further reiterations are in progress to turn this into a Wordpress theme or make it fully editable with Cloudcannon CMS. I cannot let you resell this unless you [contact me](mailto:alex@collectivelymade.com).
 
